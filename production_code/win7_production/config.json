@@ -1,0 +1,12 @@
+{
+  "Tank": "A",
+  "Left": 15,
+  "Top": 420,
+  "Width": 200,
+  "Height": 70,
+  "Threshold": 38,
+  "Interval": 60,
+  "AutoSync": 3600,
+  "EdfFolder": "C:\\Users\\1003380\\tony_code\\test_edf\\edf",
+  "OldEdfFolder": "C:\\Users\\1003380\\tony_code\\test_edf\\old_edf"
+}

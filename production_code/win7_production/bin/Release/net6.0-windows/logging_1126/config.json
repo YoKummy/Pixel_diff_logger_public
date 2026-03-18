@@ -1,0 +1,12 @@
+{
+  "Tank": "A",
+  "Left": 20,
+  "Top": 420,
+  "Width": 180,
+  "Height": 60,
+  "Threshold": 38,
+  "Interval": 60,
+  "AutoSync": 3600,
+  "EdfFolder": "",
+  "OldEdfFolder": ""
+}
